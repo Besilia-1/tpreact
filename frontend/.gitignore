@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+.env
+
+# Database dumps (généralement)
+*.sql
+
+# Logs
+logs/
+*.log
+
+# IDE files
+.vscode/
+.DS_Store
